@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #freelancer-list {
+    margin-bottom: 20px;
+  }
+  
+  .freelancer {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+  }
+  
+  .freelancer span {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  #average-price {
+    font-size: 18px;
+    font-weight: bold;
+  }
